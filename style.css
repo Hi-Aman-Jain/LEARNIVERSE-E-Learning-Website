@@ -317,10 +317,10 @@ a, button {
 	align-items: center;
 }
 .about-content .side-text {
-	width: 550px;
-	padding: 50px 40px;
-	background: #ffffff;
-	box-shadow: 2px 0 100px rgba(0,0,0,0.3);
+	width: 600px;
+	padding: 40px 30px;
+	background: #f7a0a0a3;
+	box-shadow: 2px 0 100px rgba(67, 3, 3, 0.689);
 	border-radius: 5px;
 	text-align: justify;
 	line-height: 22px;
