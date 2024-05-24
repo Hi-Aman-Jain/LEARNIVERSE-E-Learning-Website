@@ -130,12 +130,15 @@ a, button {
 }
 .quote h5 {
 	margin-top: 10px;
-	color: rgba(104, 25, 71, 0.731);
+	color: rgba(116, 74, 99, 0.788);
 	line-height: 20px;
+	font-family:sans-serif
 }
 .quote p {
 	font-size: 55px;
-	color: #39114e;
+	color: #4e113de8;
+	font-weight: 510;
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	line-height: 65px;
 }
 .quote .play {
@@ -317,11 +320,11 @@ a, button {
 	align-items: center;
 }
 .about-content .side-text {
-	width: 600px;
-	padding: 40px 30px;
+	width: 550px;
+	padding: 25px 30px;
 	background: #f7a0a0a3;
-	box-shadow: 2px 0 100px rgba(67, 3, 3, 0.689);
-	border-radius: 5px;
+	box-shadow: 2px 0 50px rgba(0, 0, 0, 0.432);
+	border-radius: 15px;
 	text-align: justify;
 	line-height: 22px;
 	opacity: 0;
@@ -579,8 +582,8 @@ a, button {
 .cc form label {
 	position: absolute;
 	color: #2E3D49;
-	font-size: 10px;
-	font-weight: 800;
+	font-size: 13.5px;
+	font-weight: 700;
 }
 .cc form input {
 	padding: 15px;
@@ -709,15 +712,15 @@ form textarea {
 .title2 span{
 	font-weight: 700;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 30px;
+	font-size: 40px;
 	color: #2E3D49;
 }
 .title2 .shortdesc2 {
 	padding: 10px;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 15px;
+	font-size: 20px;
 	color: #2E3D49;
-	margin-bottom: 10px;
+	margin-bottom: -30px;
 }
 .feedbox {
 	margin-top: 50px;
@@ -747,7 +750,7 @@ form textarea {
 .feed form label {
 	position: absolute;
 	color: #f2f2f2;
-	font-size: 10px;
+	font-size: 15px;
 	font-weight: 800;
 }
 .feed form input, .feed textarea {
