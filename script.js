@@ -155,7 +155,6 @@ function scrollAppear() {
     } 
   }
   
-  
   function sideMenu(side) {
     var menu = document.getElementById('side-menu');
     if(side==0) {
