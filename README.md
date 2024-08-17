@@ -1,6 +1,6 @@
 # LEARNIVERSE: Learn Beyond Limits 
 
-LEARNIVERSE is an online learning platform where anyone can unlock limitless learning anytime, anywhere at zero cost. It offers a variety of courses designed to enhance your professional skills and personal growth. The user-friendly interface ensures a seamless learning experience. LEARNIVERSE was developed with the vision of making quality education accessible to everyone, regardless of geographical boundaries.
+LEARNIVERSE is an responsive online learning platform where anyone can unlock limitless learning anytime, anywhere at zero cost. It offers a variety of courses designed to enhance your professional skills and personal growth. The user-friendly interface ensures a seamless learning experience. LEARNIVERSE was developed with the vision of making quality education accessible to everyone, regardless of geographical boundaries.
 
 ![LEARNIVERSE](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
